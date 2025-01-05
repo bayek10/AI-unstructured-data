@@ -1,0 +1,5 @@
+google-generativeai
+pandas
+openai
+anthropic
+python-dotenv
