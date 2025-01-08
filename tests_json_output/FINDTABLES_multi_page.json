@@ -1,0 +1,57 @@
+{ 'available_options': {'colors': []
+    },
+  'price_tables': [
+        { 'bbox': ( 28.34600067138672,
+            57.01702880859375,
+            566.468017578125,
+            116.81298828125),
+                      'content': <pymupdf.table.Table object at 0x0000023E872027D0>,
+                      'page_num': 9
+        },
+        { 'bbox': ( 28.34600067138672,
+            132.05804443359375,
+            566.468017578125,
+            191.85302734375),
+                      'content': <pymupdf.table.Table object at 0x0000023E87198A10>,
+                      'page_num': 9
+        },
+        { 'bbox': ( 28.34600067138672,
+            207.0980224609375,
+            566.468017578125,
+            266.89404296875),
+                      'content': <pymupdf.table.Table object at 0x0000023E871F00D0>,
+                      'page_num': 9
+        },
+        { 'bbox': ( 28.34600067138672,
+            282.1390380859375,
+            566.468017578125,
+            341.93402099609375),
+                      'content': <pymupdf.table.Table object at 0x0000023E8462C0D0>,
+                      'page_num': 9
+        },
+        { 'bbox': ( 28.34600067138672,
+            357.17901611328125,
+            566.468017578125,
+            406.76800537109375),
+                      'content': <pymupdf.table.Table object at 0x0000023E86B0E990>,
+                      'page_num': 9
+        }
+    ],
+  'product_info': { 'brand': 'Cattelan Italia',
+                    'catalog': 'Cattelan Italia ITALIA 08.01.21-pages-2-11.pdf',
+                    'designer': 'Paolo Cattelan',
+                    'name': 'dragon wood',
+                    'page': 7,
+                    'type': 'Tavolo',
+                    'year': 2019
+    },
+  'section_bounds': { 'end': { 'page_num': 9,
+                               'product_name': 'DUFFY KERAMIK DRIVE',
+                               'y_coord': 442.4259948730469
+        },
+                      'start': {'page_num': 7, 'y': 410.6650085449219
+        }
+    },
+  'specifications': {},
+  'status': 'found'
+}
